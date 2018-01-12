@@ -1,0 +1,1 @@
+<li><img width="140" height="50" src="[field:picname/]" class="attachment-post-thumbnail wp-post-image" alt="c_logo15" /></li>

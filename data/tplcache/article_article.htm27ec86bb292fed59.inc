@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("field","",252,271);
+$z[0][4]['name']="title";
+$z[1]=Array("global","",272,298);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("field","",339,361);
+$z[2][4]['name']="keywords";
+$z[3]=Array("field","",401,452);
+$z[3][4]['name']="description";
+$z[3][4]['function']="html2text(@me)";
+$z[4]=Array("include","",942,977);
+$z[4][4]['filename']="head.htm";
+$z[5]=Array("field","",1101,1130);
+$z[5][4]['name']="typename";
+$z[6]=Array("field","",1191,1220);
+$z[6][4]['name']="position";
+$z[7]=Array("field","",1404,1431);
+$z[7][4]['name']="phpurl";
+$z[8]=Array("field","",1455,1478);
+$z[8][4]['name']="id";
+$z[9]=Array("field","",1483,1507);
+$z[9][4]['name']="mid";
+$z[10]=Array("field","",1645,1664);
+$z[10][4]['name']="title";
+$z[11]=Array("adminname","",1710,1727);
+$z[12]=Array("field","",1763,1819);
+$z[12][4]['name']="pubdate";
+$z[12][4]['function']="MyDate('Y-m-d H:i',@me)";
+$z[13]=Array("adminname","",1864,1881);
+$z[14]=Array("field","",1987,2005);
+$z[14][4]['name']="body";
+$z[15]=Array("arclist","\r\n      <div class=\"zxal\"> <a href=\"[field:arcurl/]\"><img src=\"[field:picname/]\" width=\"120\" height=\"70\"></a>\r\n        <p><a href=\"[field:arcurl/]\">[field:title/]</a></p>\r\n      </div>\r\n      ",2309,2559);
+$z[15][4]['row']="8";
+$z[15][4]['typeid']="1";
+$z[15][4]['titlelen']="20";
+$z[16]=Array("arclist","\r\n        <li><span><a href=\"[field:arcurl/]\"> >&nbsp;[field:title/]</a></span></li>\r\n        ",2756,2908);
+$z[16][4]['row']="6";
+$z[16][4]['typeid']="7";
+$z[16][4]['titlelen']="50";
+$z[17]=Array("include","",2961,2998);
+$z[17][4]['filename']="footer.htm";
+
+?>
